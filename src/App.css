@@ -14,6 +14,7 @@ body {
   margin: 0 auto;
   padding: 20px;
   border: 2px solid rgb(194, 181, 165);
+  overflow: hidden;
 }
 
 .title-in {
