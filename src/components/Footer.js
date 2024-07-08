@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="col-lg-6">
             <h3 className="mb-2">Contact me:</h3>
             <p className="mb-2">Email: hoanghuy08041977@gmail.com</p>
-            <p>Phone: +123 456 789</p>
+            <p>Phone: +373707296</p>
           </div>
           <div className="col-lg-6 footer-infor">
             <h3 className="mb-2">Follow me:</h3>
